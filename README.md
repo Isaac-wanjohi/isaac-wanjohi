@@ -1,29 +1,29 @@
 # 💫 About Me:
 
 ### Hi there 👋, I’m Isaac Wanjohi <br>
-📍 *Data Scientist | Analyst | Aspiring Cloud & MLOps Engineer*  
-##### 🎯 Solving business problems with data, while learning to scale using **cloud** and **big data** tools.
+**📍 *Data Scientist | Analyst | Aspiring Cloud & MLOps Engineer***<br>
+🎯 Solving business problems with **data**, while learning to scale using **cloud** and **big data** tools.
 
 ---
 
-💼 **Core Skills**  
-##### • Data Analysis & Visualization — *Excel, SQL, Power BI, Tableau* 
-##### • Machine Learning — *Scikit-learn, XGBoost, NLP* 
-##### • Programming — *Python, Pandas, NumPy, Git*
+##### 💼 **Core Skills**  
+ • Data Analysis & Visualization — *Excel, SQL, Power BI, Tableau* <br>
+ • Machine Learning — *Scikit-learn, XGBoost, NLP* <br>
+ • Programming — *Python, Pandas, NumPy, Git* <br>
 
 ---
 
-🌐 **Currently Exploring**  
-##### ☁️ Cloud — *Azure (Fundamentals), Google Colab, AWS (Basics)*  
-##### 🛠️ DevOps / MLOps — *Streamlit Deployments, containerization*  
-##### 🧠 Big Data — *PySpark (basics), working with larger datasets via Colab/Cloud*
+##### 🌐 **Currently Exploring**  
+ ☁️ Cloud — *Azure (Fundamentals), Google Colab, AWS (Basics)* <br> 
+ 🛠️ DevOps / MLOps — *Streamlit Deployments, containerization* <br> 
+ 🧠 Big Data — *PySpark (basics), working with larger datasets via Colab/Cloud*<br>
 
 ---
 
-📊 **Featured Projects**  
-##### ✅ [Sales Performance Dashboard – Power BI](link)  
-##### ✅ [ML Loan Risk Model – Python + Streamlit](link)  
-##### ✅ [Excel Time Tracker – Formulas + VBA](link)
+##### 📊 **Featured Projects** 
+ ✅ [Sales Performance Dashboard – Power BI](link)  <br>
+ ✅ [ML Loan Risk Model – Python + Streamlit](link)  <br>
+✅ [Excel Time Tracker – Formulas + VBA](link) <br>
 
 ---
 
