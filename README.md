@@ -1,4 +1,4 @@
-# 💫 About Me:
+<img src="big data AI.png" alt="GitHub Banner" width="100%" />
 
 ### Hi there 👋, I’m Isaac Wanjohi <br>
 **📍 *Data Scientist | Analyst | Aspiring Cloud & MLOps Engineer***<br>
