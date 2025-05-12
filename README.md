@@ -1,4 +1,4 @@
-<img src="big_data.jpg" alt="GitHub Banner" width="100%" />
+<img src="big_data.JPG" alt="GitHub Banner" width="100%" />
 
 ### Hi there 👋, I’m Isaac Wanjohi <br>
 **📍 *Data Scientist | Analyst | Aspiring Cloud & MLOps Engineer***<br>
